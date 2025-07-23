@@ -39,8 +39,8 @@ You can try the deployed app here:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-dashboard-shiny.git
-   cd weather-dashboard-shiny
+   git clone https://github.com/giangvu04/Weather-Dashboard.git
+   cd Weather-Dashboard
    ```
 
 2. **Install R packages**
@@ -64,10 +64,6 @@ You can try the deployed app here:
      "urltools", "lubridate", "plotly", "dplyr"
    ))
    ```
-
-3. **(Optional) Download an avatar image**
-
-   * Place an image named `GiangNek.jpg` in the `www/` folder for user avatar display, or update the image path in the code.
 
 ## Configuration
 
@@ -111,11 +107,6 @@ weather-dashboard-shiny/
   * `/data/2.5/weather`: current weather by city or geo-coordinates
   * `/data/2.5/forecast`: 5-day/3-hour forecast data
 
-## Screenshots
-
-> *Replace `screenshot.png` with your own app screenshot for better illustration!*
-
-![Screenshot](screenshot.png)
 
 ## License
 
