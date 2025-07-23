@@ -5,8 +5,6 @@
 A modern interactive weather dashboard built with R Shiny, leveraging the OpenWeatherMap API.
 **Try the live demo:** [giangvu.shinyapps.io/DSR301m\_assignment/](https://giangvu.shinyapps.io/DSR301m_assignment/)
 
-![Weather Dashboard Screenshot](screenshot.png)
-
 ## Features
 
 * 🔍 **Search weather by city name**
@@ -28,12 +26,6 @@ A modern interactive weather dashboard built with R Shiny, leveraging the OpenWe
 * [License](#license)
 
 ---
-
-## Demo
-
-You can try the deployed app here:
-➡️ [giangvu.shinyapps.io/DSR301m\_assignment/](https://giangvu.shinyapps.io/DSR301m_assignment/)
-
 ## Installation
 
 1. **Clone the repository**
